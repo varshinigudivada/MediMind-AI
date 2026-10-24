@@ -1,0 +1,25 @@
+text,intent
+How can I improve my sleep?,sleep
+Tips for sleeping better,sleep
+Why is good sleep important?,sleep
+How do I eat a balanced diet?,nutrition
+What are healthy food choices?,nutrition
+Explain healthy eating,nutrition
+How much water should I drink?,hydration
+Why is water important?,hydration
+How can I start exercising safely?,exercise
+Benefits of physical activity,exercise
+How can I manage everyday stress?,stress
+I feel stressed and overwhelmed,stress
+What is blood pressure?,blood_pressure
+Explain high blood pressure,blood_pressure
+What is a common cold?,cold
+Why do people get a runny nose?,cold
+Hello,greeting
+Hi there,greeting
+What can you do?,help
+Help me use this chatbot,help
+How do vaccines work?,general_health
+What is a healthy lifestyle?,general_health
+What is first aid?,general_health
+How can I stay healthy?,general_health
